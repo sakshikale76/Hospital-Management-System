@@ -1,0 +1,1 @@
+Developed a Hospital Management System (HMS) to automate various administrative and clinical functions of a hospital, such as managing patients, doctors, and appointments. The system enables hospital staff to easily manage patient records, schedule appointments with doctors, and view information about patients and doctors in a user-friendly environment.
